@@ -7,4 +7,3 @@ You can also find the full dataset (GHSD.csv) that contains 9,316 tweets annotat
 The repo also contains two lexicons of hate terms extracted from the dataset using two corpus statistical-based approaches: chi-square and Pointwise Mutual Information (PMI).  
 
 
-We integrated the trained model into a web-based tool to detect hate speech. You can try here : http://hatespeech-detector.com/
